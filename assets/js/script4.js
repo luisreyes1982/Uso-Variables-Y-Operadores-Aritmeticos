@@ -15,5 +15,5 @@ var difweeks = difyear % week
 var days = difweeks
 
 /* Mensaje de Resultado en el navegador */
-document.write("Los " + datouser + " Dias Ingresados Representan " + Math.floor(years) + 
-" Año(s), " + Math.floor(weeks) + " Semana(s) y " + Math.floor(days) + " Dia(s)")
+document.write("Los " + datouser + " Dias Ingresados Representan " + Math.floor(years) +
+    " Año(s), " + Math.floor(weeks) + " Semana(s) y " + Math.floor(days) + " Dia(s)")
